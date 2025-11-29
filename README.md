@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klefedroniarz&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=klefedroniarz)](https://git.io/streak-stats)
